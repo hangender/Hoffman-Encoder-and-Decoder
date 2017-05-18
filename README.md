@@ -20,7 +20,7 @@ java -jar encoder.jar sample_input.txt
 
 the above command will produce 2 files.
 
-
+  
 java -jar decoder.jar encoded.bin code_table.txt
 
 the above command will produce 1 file (decodes the binary file using provided code_table.txt)
